@@ -1,8 +1,8 @@
 {
+  "homepage": "http://sean-code.github.io/tic-tac/",
   "name": "tictactoe",
   "version": "0.1.0",
   "description": "A project made for the FreeCodeCamp certification",
-  "homepage": "https://spaniarddev.github.io/TicTacToe/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "lodash": "^4.17.10",
@@ -25,5 +25,5 @@
     "svg",
     "freecodecamp"
   ],
-  "author": "spaniardDev"
+  "author": "sean-code"
 }
