@@ -1,6 +1,5 @@
 # TicTacToe Game
-#### Project made for the old freeCodeCamp curriculum
-
+#### For entertainment
 I used React and CSS/SVG for the animations.
 
 #### Screenshot
