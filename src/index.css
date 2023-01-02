@@ -2,9 +2,9 @@ body {
   height            : 100vh;
   font-family       : Merriweather, sans-serif;
   background        : #000000;
-  background        : -webkit-radial-gradient(center, ellipse cover, #226293 0%,#1b4f79 100%);
-  background        :    -moz-radial-gradient(center, ellipse cover, #226293 0%, #1b4f79 100%);
-  background        :         radial-gradient(ellipse at center, #226293 0%,#1b4f79 100%);
+  background        : -webkit-radial-gradient(center, ellipse cover, #000000 0%,#000000 100%);
+  background        :    -moz-radial-gradient(center, ellipse cover, #000000 0%, #302929 100%);
+  background        :         radial-gradient(ellipse at center, #476c89 0%,#000000 100%);
   filter            : progid:DXImageTransform.Microsoft.gradient(
                               startColorstr='#226293',
                               endColorstr='#1b4f79',
